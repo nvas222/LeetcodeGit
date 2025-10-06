@@ -83,8 +83,8 @@ dotnet test --filter "ClassName=TwoSumTests"
 - [ ] Coming soon...
 
 ### Statistics
-- **Total Solved**: 2
-- **Easy**: 2/1963 (0.1%)
+- **Total Solved**: 3
+- **Easy**: 3/1963 (0.15%)
 - **Medium**: 0/1569 (0%)
 - **Hard**: 0/665 (0%)
 ### Adding a New Solution
@@ -219,4 +219,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Happy Coding!** 🚀
 
-*Last Updated: October 3, 2025*
+*Last Updated: October 6, 2025*
