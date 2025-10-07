@@ -43,8 +43,8 @@ LeetCodeSolutions/
 ### Clone and Setup
 
 ```bash
-git clone <your-repository-url>
-cd leetcode-solutions
+git clone https://github.com/nvas222/LeetcodeGit.git
+cd LeetcodeGit
 dotnet restore
 ```
 
@@ -83,8 +83,8 @@ dotnet test --filter "ClassName=TwoSumTests"
 - [ ] Coming soon...
 
 ### Statistics
-- **Total Solved**: 3
-- **Easy**: 3/1963 (0.15%)
+- **Total Solved**: 1
+- **Easy**: 1/1963 (0.05%)
 - **Medium**: 0/1569 (0%)
 - **Hard**: 0/665 (0%)
 ### Adding a New Solution
@@ -219,4 +219,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Happy Coding!** 🚀
 
-*Last Updated: October 6, 2025*
+*Last Updated: October 7, 2025*
