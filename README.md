@@ -3,8 +3,9 @@
 ![.NET](https://img.shields.io/badge/.NET-8.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Version](https://img.shields.io/badge/version-1.0.0-orange)
 
-A comprehensive collection of LeetCode problem solutions implemented in C# .NET 8.0, organized by difficulty level and featuring comprehensive unit tests.
+A comprehensive collection of LeetCode problem solutions implemented in C# .NET 8.0, organized by difficulty level and featuring comprehensive unit tests. This repository serves as both a reference and a learning resource for algorithm practice and interview preparation.
 
 ## 🎯 Project Goals
 
@@ -33,6 +34,40 @@ LeetCodeSolutions/
 ```
 
 ## 🚀 Getting Started
+
+This repository is designed for learning and practicing LeetCode problems. You can either contribute to this repository or create your own version to track your progress.
+
+### Option 1: Contribute to This Repository
+
+1. Fork the repository by clicking the "Fork" button at the top-right corner of this page.
+2. Clone your forked repository:
+   ```bash
+   git clone https://github.com/<your-username>/LeetcodeGit.git
+   cd LeetcodeGit
+   ```
+3. Make your changes and submit a pull request.
+
+### Option 2: Create Your Own Repository
+
+1. Download the repository as a ZIP file:
+   - Click the green "Code" button and select "Download ZIP".
+   - Extract the ZIP file to your desired location.
+2. Initialize a new Git repository:
+   ```bash
+   git init
+   git remote add origin https://github.com/<your-username>/YourRepoName.git
+   git add .
+   git commit -m "Initial commit"
+   git push -u origin main
+   ```
+3. Start solving problems and tracking your progress in your own repository.
+
+### Additional Resources
+
+- Visit the [Wiki](https://github.com/nvas222/LeetcodeGit/wiki) for:
+  - Learning tutorials
+  - Contribution guidelines
+  - Instructions for downloading and using version v1.0.0 as your own repository.
 
 ### Prerequisites
 
@@ -197,12 +232,42 @@ public class ProblemName : ISolution
 - **Testing**: Writing comprehensive unit tests
 - **Documentation**: Clear explanations of approach and complexity
 
+## 🎓 Learning Tutorials
+
+### How to Use This Repository for Learning
+
+1. **Step-by-Step Problem Solving**:
+   - Each solution includes detailed comments explaining the thought process
+   - Solutions are structured to show problem decomposition and approach selection
+   - Follow the commit history to see how solutions evolve
+
+2. **Learn by Example**:
+   - Study the solution patterns for common algorithm techniques
+   - Compare different approaches for the same problem (when available)
+   - Understand tradeoffs between time and space complexity
+
+3. **Weekly Learning Path**:
+   - **Week 1**: Array and String problems (e.g., Two Sum)
+   - **Week 2**: Hash Maps and Sets
+   - **Week 3**: Linked Lists and Stacks
+   - **Week 4**: Trees and Graphs
+   - **Week 5**: Dynamic Programming basics
+
+### Tutorial Sessions
+
+Check the [Discussions](https://github.com/nvas222/LeetcodeGit/discussions) tab for:
+- Weekly problem walkthroughs
+- Interview preparation tips
+- Algorithm pattern explanations
+- Video tutorials (coming soon)
+
 ## 🤝 Contributing
 
 This is a personal learning repository, but feel free to:
 - Suggest improvements or optimizations
 - Report bugs or issues
 - Share alternative solution approaches
+- Add your own solution approaches to existing problems
 
 ## 📝 License
 
@@ -214,9 +279,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [.NET Documentation](https://docs.microsoft.com/en-us/dotnet/)
 - [C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
 - [xUnit Testing](https://xunit.net/)
+- [Algorithm Complexity Cheat Sheet](https://www.bigocheatsheet.com/)
+- [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) - Recommended book
+
+## 📺 Setting Up GitHub Pages (Coming Soon)
+
+This repository will soon include a GitHub Pages site with:
+- Interactive algorithm visualizations
+- Step-by-step solution walkthroughs
+- Flashcards for algorithm patterns
+- Interview preparation checklists
 
 ---
 
-**Happy Coding!** 🚀
+**Happy Coding and Learning!** 🚀
 
 *Last Updated: October 7, 2025*
+*Version: 1.0.0*
